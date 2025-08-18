@@ -1,0 +1,10 @@
+#myButton{
+    font-size: 3rem;
+    display: block;
+    margin-left: 18%;
+}
+#myImg{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
