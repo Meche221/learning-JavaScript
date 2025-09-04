@@ -1,3 +1,4 @@
+// sorry maintenance of streak didn't get the time to study
 fetchData();
 
 async function fetchData(){
